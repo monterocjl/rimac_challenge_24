@@ -6,5 +6,7 @@ export const defaultContextValue: UserContextProps = {
     birthDay: null,
     lastName: null,
     name: null,
+    cellphone: null,
+    documentNumber: null,
   },
 };
